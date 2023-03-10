@@ -9,6 +9,7 @@ This Program Main is BETA Version
 ===============================================*/
 
 /*---------------- Main Structure CSS ----------------*/
+html {scroll-behavior:smooth;}
 body {padding:0; margin:0;}
 ul, li, ol {display: inline-block; list-style-type: none;}
 /*---------------- Basic Font Menu Styleing ----------------*/
@@ -45,6 +46,98 @@ a, link, i {font-size: 13px;}
 p {font-size: 13px;}
 b {font-size: 13px;}
 }
+.f-bold {font-weight: bold;}
+.f-italic {font-style: italic;}
+.t-uppercase {text-transform: uppercase;}
+.t-capitalize {text-transform: capitalize;}
+.t-none {text-transform: none;}
+.td-none {text-decoration: none;}
+/*---------------- Transition CSS  ----------------*/
+.trs01 {transition: 0.1s;}
+.trs02 {transition: 0.2s;}
+.trs03 {transition: 0.3s;}
+.trs04 {transition: 0.4s;}
+.trs05 {transition: 0.5s;}
+.trs06 {transition: 0.6s;}
+.trs07 {transition: 0.7s;}
+.trs08 {transition: 0.8s;}
+.trs09 {transition: 0.9s;}
+.trs010 {transition: 0.10s;}
+/*---------------- Absolute attribute ----------------*/
+.top0px {top:0px;}.top1px {top:1px;}.top2px {top:2px;}.top3px {top:3px;}.top4px {top:4px;}.top5px {top:5px;}.top6px {top:6px;}.top7px {top:7px;}.top8px {top:8px;}.top9px {top:9px;}.top10px {top:10px;}.top11px {top:11px;}.top12px {top:12px;}.top13px {top:13px;}.top14px {top:14px;}.top15px {top:15px;}.top16px {top:16px;}.top17px {top:17px;}.top18px {top:18px;}.top19px {top:19px;}.top20px {top:20px;}.top21px {top:21px;}.top22px {top:22px;}.top23px {top:23px;}.top24px {top:24px;}.top25px {top:25px;}.top26px {top:26px;}.top27px {top:27px;}.top28px {top:28px;}.top29px {top:29px;}.top30px {top:30px;}.top31px {top:31px;}.top32px {top:32px;}.top33px {top:33px;}.top34px {top:34px;}.top35px {top:35px;}.top36px {top:36px;}.top37px {top:37px;}.top38px {top:38px;}.top39px {top:39px;}.top40px {top:40px;}.top41px {top:41px;}.top42px {top:42px;}.top43px {top:43px;}.top44px {top:44px;}.top45px {top:45px;}.top46px {top:46px;}.top47px {top:47px;}.top48px {top:48px;}.top49px {top:49px;}.top50px {top:50px;}.top51px {top:51px;}.top52px {top:52px;}.top53px {top:53px;}.top54px {top:54px;}.top55px {top:55px;}.top56px {top:56px;}.top57px {top:57px;}.top58px {top:58px;}.top59px {top:59px;}.top60px {top:60px;}.top61px {top:61px;}.top62px {top:62px;}.top63px {top:63px;}.top64px {top:64px;}.top65px {top:65px;}.top66px {top:66px;}.top67px {top:67px;}.top68px {top:68px;}.top69px {top:69px;}.top70px {top:70px;}.top71px {top:71px;}.top72px {top:72px;}.top73px {top:73px;}.top74px {top:74px;}.top75px {top:75px;}.top76px {top:76px;}.top77px {top:77px;}.top78px {top:78px;}.top79px {top:79px;}.top80px {top:80px;}.top81px {top:81px;}.top82px {top:82px;}.top83px {top:83px;}.top84px {top:84px;}.top85px {top:85px;}.top86px {top:86px;}.top87px {top:87px;}.top88px {top:88px;}.top89px {top:89px;}.top90px {top:90px;}.top91px {top:91px;}.top92px {top:92px;}.top93px {top:93px;}.top94px {top:94px;}.top95px {top:95px;}.top96px {top:96px;}.top97px {top:97px;}.top98px {top:98px;}.top99px {top:99px;}.top100px {top:100px;}
+/*------------------------------------------------------------------*/
+.left0px {left:0px;}.left1px {left:1px;}.left2px {left:2px;}.left3px {left:3px;}.left4px {left:4px;}.left5px {left:5px;}.left6px {left:6px;}.left7px {left:7px;}.left8px {left:8px;}.left9px {left:9px;}.left10px {left:10px;}.left11px {left:11px;}.left12px {left:12px;}.left13px {left:13px;}.left14px {left:14px;}.left15px {left:15px;}.left16px {left:16px;}.left17px {left:17px;}.left18px {left:18px;}.left19px {left:19px;}.left20px {left:20px;}.left21px {left:21px;}.left22px {left:22px;}.left23px {left:23px;}.left24px {left:24px;}.left25px {left:25px;}.left26px {left:26px;}.left27px {left:27px;}.left28px {left:28px;}.left29px {left:29px;}.left30px {left:30px;}.left31px {left:31px;}.left32px {left:32px;}.left33px {left:33px;}.left34px {left:34px;}.left35px {left:35px;}.left36px {left:36px;}.left37px {left:37px;}.left38px {left:38px;}.left39px {left:39px;}.left40px {left:40px;}.left41px {left:41px;}.left42px {left:42px;}.left43px {left:43px;}.left44px {left:44px;}.left45px {left:45px;}.left46px {left:46px;}.left47px {left:47px;}.left48px {left:48px;}.left49px {left:49px;}.left50px {left:50px;}.left51px {left:51px;}.left52px {left:52px;}.left53px {left:53px;}.left54px {left:54px;}.left55px {left:55px;}.left56px {left:56px;}.left57px {left:57px;}.left58px {left:58px;}.left59px {left:59px;}.left60px {left:60px;}.left61px {left:61px;}.left62px {left:62px;}.left63px {left:63px;}.left64px {left:64px;}.left65px {left:65px;}.left66px {left:66px;}.left67px {left:67px;}.left68px {left:68px;}.left69px {left:69px;}.left70px {left:70px;}.left71px {left:71px;}.left72px {left:72px;}.left73px {left:73px;}.left74px {left:74px;}.left75px {left:75px;}.left76px {left:76px;}.left77px {left:77px;}.left78px {left:78px;}.left79px {left:79px;}.left80px {left:80px;}.left81px {left:81px;}.left82px {left:82px;}.left83px {left:83px;}.left84px {left:84px;}.left85px {left:85px;}.left86px {left:86px;}.left87px {left:87px;}.left88px {left:88px;}.left89px {left:89px;}.left90px {left:90px;}.left91px {left:91px;}.left92px {left:92px;}.left93px {left:93px;}.left94px {left:94px;}.left95px {left:95px;}.left96px {left:96px;}.left97px {left:97px;}.left98px {left:98px;}.left99px {left:99px;}.left100px {left:100px;}
+/*------------------------------------------------------------------*/
+.right0px {right:0px;}.right1px {right:1px;}.right2px {right:2px;}.right3px {right:3px;}.right4px {right:4px;}.right5px {right:5px;}.right6px {right:6px;}.right7px {right:7px;}.right8px {right:8px;}.right9px {right:9px;}.right10px {right:10px;}.right11px {right:11px;}.right12px {right:12px;}.right13px {right:13px;}.right14px {right:14px;}.right15px {right:15px;}.right16px {right:16px;}.right17px {right:17px;}.right18px {right:18px;}.right19px {right:19px;}.right20px {right:20px;}.right21px {right:21px;}.right22px {right:22px;}.right23px {right:23px;}.right24px {right:24px;}.right25px {right:25px;}.right26px {right:26px;}.right27px {right:27px;}.right28px {right:28px;}.right29px {right:29px;}.right30px {right:30px;}.right31px {right:31px;}.right32px {right:32px;}.right33px {right:33px;}.right34px {right:34px;}.right35px {right:35px;}.right36px {right:36px;}.right37px {right:37px;}.right38px {right:38px;}.right39px {right:39px;}.right40px {right:40px;}.right41px {right:41px;}.right42px {right:42px;}.right43px {right:43px;}.right44px {right:44px;}.right45px {right:45px;}.right46px {right:46px;}.right47px {right:47px;}.right48px {right:48px;}.right49px {right:49px;}.right50px {right:50px;}.right51px {right:51px;}.right52px {right:52px;}.right53px {right:53px;}.right54px {right:54px;}.right55px {right:55px;}.right56px {right:56px;}.right57px {right:57px;}.right58px {right:58px;}.right59px {right:59px;}.right60px {right:60px;}.right61px {right:61px;}.right62px {right:62px;}.right63px {right:63px;}.right64px {right:64px;}.right65px {right:65px;}.right66px {right:66px;}.right67px {right:67px;}.right68px {right:68px;}.right69px {right:69px;}.right70px {right:70px;}.right71px {right:71px;}.right72px {right:72px;}.right73px {right:73px;}.right74px {right:74px;}.right75px {right:75px;}.right76px {right:76px;}.right77px {right:77px;}.right78px {right:78px;}.right79px {right:79px;}.right80px {right:80px;}.right81px {right:81px;}.right82px {right:82px;}.right83px {right:83px;}.right84px {right:84px;}.right85px {right:85px;}.right86px {right:86px;}.right87px {right:87px;}.right88px {right:88px;}.right89px {right:89px;}.right90px {right:90px;}.right91px {right:91px;}.right92px {right:92px;}.right93px {right:93px;}.right94px {right:94px;}.right95px {right:95px;}.right96px {right:96px;}.right97px {right:97px;}.right98px {right:98px;}.right99px {right:99px;}.right100px {right:100px;}
+/*------------------------------------------------------------------*/
+.bottom0px {bottom:0px;}.bottom1px {bottom:1px;}.bottom2px {bottom:2px;}.bottom3px {bottom:3px;}.bottom4px {bottom:4px;}.bottom5px {bottom:5px;}.bottom6px {bottom:6px;}.bottom7px {bottom:7px;}.bottom8px {bottom:8px;}.bottom9px {bottom:9px;}.bottom10px {bottom:10px;}.bottom11px {bottom:11px;}.bottom12px {bottom:12px;}.bottom13px {bottom:13px;}.bottom14px {bottom:14px;}.bottom15px {bottom:15px;}.bottom16px {bottom:16px;}.bottom17px {bottom:17px;}.bottom18px {bottom:18px;}.bottom19px {bottom:19px;}.bottom20px {bottom:20px;}.bottom21px {bottom:21px;}.bottom22px {bottom:22px;}.bottom23px {bottom:23px;}.bottom24px {bottom:24px;}.bottom25px {bottom:25px;}.bottom26px {bottom:26px;}.bottom27px {bottom:27px;}.bottom28px {bottom:28px;}.bottom29px {bottom:29px;}.bottom30px {bottom:30px;}.bottom31px {bottom:31px;}.bottom32px {bottom:32px;}.bottom33px {bottom:33px;}.bottom34px {bottom:34px;}.bottom35px {bottom:35px;}.bottom36px {bottom:36px;}.bottom37px {bottom:37px;}.bottom38px {bottom:38px;}.bottom39px {bottom:39px;}.bottom40px {bottom:40px;}.bottom41px {bottom:41px;}.bottom42px {bottom:42px;}.bottom43px {bottom:43px;}.bottom44px {bottom:44px;}.bottom45px {bottom:45px;}.bottom46px {bottom:46px;}.bottom47px {bottom:47px;}.bottom48px {bottom:48px;}.bottom49px {bottom:49px;}.bottom50px {bottom:50px;}.bottom51px {bottom:51px;}.bottom52px {bottom:52px;}.bottom53px {bottom:53px;}.bottom54px {bottom:54px;}.bottom55px {bottom:55px;}.bottom56px {bottom:56px;}.bottom57px {bottom:57px;}.bottom58px {bottom:58px;}.bottom59px {bottom:59px;}.bottom60px {bottom:60px;}.bottom61px {bottom:61px;}.bottom62px {bottom:62px;}.bottom63px {bottom:63px;}.bottom64px {bottom:64px;}.bottom65px {bottom:65px;}.bottom66px {bottom:66px;}.bottom67px {bottom:67px;}.bottom68px {bottom:68px;}.bottom69px {bottom:69px;}.bottom70px {bottom:70px;}.bottom71px {bottom:71px;}.bottom72px {bottom:72px;}.bottom73px {bottom:73px;}.bottom74px {bottom:74px;}.bottom75px {bottom:75px;}.bottom76px {bottom:76px;}.bottom77px {bottom:77px;}.bottom78px {bottom:78px;}.bottom79px {bottom:79px;}.bottom80px {bottom:80px;}.bottom81px {bottom:81px;}.bottom82px {bottom:82px;}.bottom83px {bottom:83px;}.bottom84px {bottom:84px;}.bottom85px {bottom:85px;}.bottom86px {bottom:86px;}.bottom87px {bottom:87px;}.bottom88px {bottom:88px;}.bottom89px {bottom:89px;}.bottom90px {bottom:90px;}.bottom91px {bottom:91px;}.bottom92px {bottom:92px;}.bottom93px {bottom:93px;}.bottom94px {bottom:94px;}.bottom95px {bottom:95px;}.bottom96px {bottom:96px;}.bottom97px {bottom:97px;}.bottom98px {bottom:98px;}.bottom99px {bottom:99px;}.bottom100px {bottom:100px;}
+/*---------------- Main Font Size CSS ----------------*/
+.f0px {font-size:0px;}.f1px {font-size:1px;}.f2px {font-size:2px;}.f3px {font-size:3px;}.f4px {font-size:4px;}.f5px {font-size:5px;}.f6px {font-size:6px;}.f7px {font-size:7px;}.f8px {font-size:8px;}.f9px {font-size:9px;}.f10px {font-size:10px;}.f11px {font-size:11px;}.f12px {font-size:12px;}.f13px {font-size:13px;}.f14px {font-size:14px;}.f15px {font-size:15px;}.f16px {font-size:16px;}.f17px {font-size:17px;}.f18px {font-size:18px;}.f19px {font-size:19px;}.f20px {font-size:20px;}.f21px {font-size:21px;}.f22px {font-size:22px;}.f23px {font-size:23px;}.f24px {font-size:24px;}.f25px {font-size:25px;}.f26px {font-size:26px;}.f27px {font-size:27px;}.f28px {font-size:28px;}.f29px {font-size:29px;}.f30px {font-size:30px;}.f31px {font-size:31px;}.f32px {font-size:32px;}.f33px {font-size:33px;}.f34px {font-size:34px;}.f35px {font-size:35px;}.f36px {font-size:36px;}.f37px {font-size:37px;}.f38px {font-size:38px;}.f39px {font-size:39px;}.f40px {font-size:40px;}.f41px {font-size:41px;}.f42px {font-size:42px;}.f43px {font-size:43px;}.f44px {font-size:44px;}.f45px {font-size:45px;}.f46px {font-size:46px;}.f47px {font-size:47px;}.f48px {font-size:48px;}.f49px {font-size:49px;}.f50px {font-size:50px;}
+/*------------------------------------------------------------------*/
+.fw100 {font-weight:100;}
+.fw200 {font-weight:200;}
+.fw300 {font-weight:300;}
+.fw400 {font-weight:400;}
+.fw500 {font-weight:500;}
+.fw600 {font-weight:600;}
+.fw700 {font-weight:700;}
+.fw800 {font-weight:800;}
+.fw900 {font-weight:900;}
+.fw1000 {font-weight:1000;}
+.fw1100 {font-weight:1100;}
+.fw1200 {font-weight:1200;}
+/*------------------------------------------------------------------*/
+.f0rem {font-size:0rem;}.f1rem {font-size:1rem;}.f2rem {font-size:2rem;}.f3rem {font-size:3rem;}.f4rem {font-size:4rem;}.f5rem {font-size:5rem;}.f6rem {font-size:6rem;}.f7rem {font-size:7rem;}.f8rem {font-size:8rem;}.f9rem {font-size:9rem;}.f10rem {font-size:10rem;}.f11rem {font-size:11rem;}.f12rem {font-size:12rem;}.f13rem {font-size:13rem;}.f14rem {font-size:14rem;}.f15rem {font-size:15rem;}.f16rem {font-size:16rem;}.f17rem {font-size:17rem;}.f18rem {font-size:18rem;}.f19rem {font-size:19rem;}.f20rem {font-size:20rem;}.f21rem {font-size:21rem;}.f22rem {font-size:22rem;}.f23rem {font-size:23rem;}.f24rem {font-size:24rem;}.f25rem {font-size:25rem;}.f26rem {font-size:26rem;}.f27rem {font-size:27rem;}.f28rem {font-size:28rem;}.f29rem {font-size:29rem;}.f30rem {font-size:30rem;}.f31rem {font-size:31rem;}.f32rem {font-size:32rem;}.f33rem {font-size:33rem;}.f34rem {font-size:34rem;}.f35rem {font-size:35rem;}.f36rem {font-size:36rem;}.f37rem {font-size:37rem;}.f38rem {font-size:38rem;}.f39rem {font-size:39rem;}.f40rem {font-size:40rem;}.f41rem {font-size:41rem;}.f42rem {font-size:42rem;}.f43rem {font-size:43rem;}.f44rem {font-size:44rem;}.f45rem {font-size:45rem;}.f46rem {font-size:46rem;}.f47rem {font-size:47rem;}.f48rem {font-size:48rem;}.f49rem {font-size:49rem;}.f50rem {font-size:50rem;}
+/*------------------------------------------------------------------*/
+.f0em {font-size:0em;}.f1em {font-size:1em;}.f2em {font-size:2em;}.f3em {font-size:3em;}.f4em {font-size:4em;}.f5em {font-size:5em;}.f6em {font-size:6em;}.f7em {font-size:7em;}.f8em {font-size:8em;}.f9em {font-size:9em;}.f10em {font-size:10em;}.f11em {font-size:11em;}.f12em {font-size:12em;}.f13em {font-size:13em;}.f14em {font-size:14em;}.f15em {font-size:15em;}.f16em {font-size:16em;}.f17em {font-size:17em;}.f18em {font-size:18em;}.f19em {font-size:19em;}.f20em {font-size:20em;}.f21em {font-size:21em;}.f22em {font-size:22em;}.f23em {font-size:23em;}.f24em {font-size:24em;}.f25em {font-size:25em;}.f26em {font-size:26em;}.f27em {font-size:27em;}.f28em {font-size:28em;}.f29em {font-size:29em;}.f30em {font-size:30em;}.f31em {font-size:31em;}.f32em {font-size:32em;}.f33em {font-size:33em;}.f34em {font-size:34em;}.f35em {font-size:35em;}.f36em {font-size:36em;}.f37em {font-size:37em;}.f38em {font-size:38em;}.f39em {font-size:39em;}.f40em {font-size:40em;}.f41em {font-size:41em;}.f42em {font-size:42em;}.f43em {font-size:43em;}.f44em {font-size:44em;}.f45em {font-size:45em;}.f46em {font-size:46em;}.f47em {font-size:47em;}.f48em {font-size:48em;}.f49em {font-size:49em;}.f50em {font-size:50em;}
+/*------------------------------------------------------------------*/
+.f0vw {font-size:0vw;}.f1vw {font-size:1vw;}.f2vw {font-size:2vw;}.f3vw {font-size:3vw;}.f4vw {font-size:4vw;}.f5vw {font-size:5vw;}.f6vw {font-size:6vw;}.f7vw {font-size:7vw;}.f8vw {font-size:8vw;}.f9vw {font-size:9vw;}.f10vw {font-size:10vw;}.f11vw {font-size:11vw;}.f12vw {font-size:12vw;}.f13vw {font-size:13vw;}.f14vw {font-size:14vw;}.f15vw {font-size:15vw;}.f16vw {font-size:16vw;}.f17vw {font-size:17vw;}.f18vw {font-size:18vw;}.f19vw {font-size:19vw;}.f20vw {font-size:20vw;}.f21vw {font-size:21vw;}.f22vw {font-size:22vw;}.f23vw {font-size:23vw;}.f24vw {font-size:24vw;}.f25vw {font-size:25vw;}.f26vw {font-size:26vw;}.f27vw {font-size:27vw;}.f28vw {font-size:28vw;}.f29vw {font-size:29vw;}.f30vw {font-size:30vw;}.f31vw {font-size:31vw;}.f32vw {font-size:32vw;}.f33vw {font-size:33vw;}.f34vw {font-size:34vw;}.f35vw {font-size:35vw;}.f36vw {font-size:36vw;}.f37vw {font-size:37vw;}.f38vw {font-size:38vw;}.f39vw {font-size:39vw;}.f40vw {font-size:40vw;}.f41vw {font-size:41vw;}.f42vw {font-size:42vw;}.f43vw {font-size:43vw;}.f44vw {font-size:44vw;}.f45vw {font-size:45vw;}.f46vw {font-size:46vw;}.f47vw {font-size:47vw;}.f48vw {font-size:48vw;}.f49vw {font-size:49vw;}.f50vw {font-size:50vw;}
+/*------------------------------------------------------------------*/
+.f0vh {font-size:0vh;}.f1vh {font-size:1vh;}.f2vh {font-size:2vh;}.f3vh {font-size:3vh;}.f4vh {font-size:4vh;}.f5vh {font-size:5vh;}.f6vh {font-size:6vh;}.f7vh {font-size:7vh;}.f8vh {font-size:8vh;}.f9vh {font-size:9vh;}.f10vh {font-size:10vh;}.f11vh {font-size:11vh;}.f12vh {font-size:12vh;}.f13vh {font-size:13vh;}.f14vh {font-size:14vh;}.f15vh {font-size:15vh;}.f16vh {font-size:16vh;}.f17vh {font-size:17vh;}.f18vh {font-size:18vh;}.f19vh {font-size:19vh;}.f20vh {font-size:20vh;}.f21vh {font-size:21vh;}.f22vh {font-size:22vh;}.f23vh {font-size:23vh;}.f24vh {font-size:24vh;}.f25vh {font-size:25vh;}.f26vh {font-size:26vh;}.f27vh {font-size:27vh;}.f28vh {font-size:28vh;}.f29vh {font-size:29vh;}.f30vh {font-size:30vh;}.f31vh {font-size:31vh;}.f32vh {font-size:32vh;}.f33vh {font-size:33vh;}.f34vh {font-size:34vh;}.f35vh {font-size:35vh;}.f36vh {font-size:36vh;}.f37vh {font-size:37vh;}.f38vh {font-size:38vh;}.f39vh {font-size:39vh;}.f40vh {font-size:40vh;}.f41vh {font-size:41vh;}.f42vh {font-size:42vh;}.f43vh {font-size:43vh;}.f44vh {font-size:44vh;}.f45vh {font-size:45vh;}.f46vh {font-size:46vh;}.f47vh {font-size:47vh;}.f48vh {font-size:48vh;}.f49vh {font-size:49vh;}.f50vh {font-size:50vh;}
+/*---------------- Main VH Basic Style CSS Selector ----------------*/
+.h0vh {height:0vh;}.h1vh {height:1vh;}.h2vh {height:2vh;}.h3vh {height:3vh;}.h4vh {height:4vh;}.h5vh {height:5vh;}.h6vh {height:6vh;}.h7vh {height:7vh;}.h8vh {height:8vh;}.h9vh {height:9vh;}.h10vh {height:10vh;}.h11vh {height:11vh;}.h12vh {height:12vh;}.h13vh {height:13vh;}.h14vh {height:14vh;}.h15vh {height:15vh;}.h16vh {height:16vh;}.h17vh {height:17vh;}.h18vh {height:18vh;}.h19vh {height:19vh;}.h20vh {height:20vh;}.h21vh {height:21vh;}.h22vh {height:22vh;}.h23vh {height:23vh;}.h24vh {height:24vh;}.h25vh {height:25vh;}.h26vh {height:26vh;}.h27vh {height:27vh;}.h28vh {height:28vh;}.h29vh {height:29vh;}.h30vh {height:30vh;}.h31vh {height:31vh;}.h32vh {height:32vh;}.h33vh {height:33vh;}.h34vh {height:34vh;}.h35vh {height:35vh;}.h36vh {height:36vh;}.h37vh {height:37vh;}.h38vh {height:38vh;}.h39vh {height:39vh;}.h40vh {height:40vh;}.h41vh {height:41vh;}.h42vh {height:42vh;}.h43vh {height:43vh;}.h44vh {height:44vh;}.h45vh {height:45vh;}.h46vh {height:46vh;}.h47vh {height:47vh;}.h48vh {height:48vh;}.h49vh {height:49vh;}.h50vh {height:50vh;}.h51vh {height:51vh;}.h52vh {height:52vh;}.h53vh {height:53vh;}.h54vh {height:54vh;}.h55vh {height:55vh;}.h56vh {height:56vh;}.h57vh {height:57vh;}.h58vh {height:58vh;}.h59vh {height:59vh;}.h60vh {height:60vh;}.h61vh {height:61vh;}.h62vh {height:62vh;}.h63vh {height:63vh;}.h64vh {height:64vh;}.h65vh {height:65vh;}.h66vh {height:66vh;}.h67vh {height:67vh;}.h68vh {height:68vh;}.h69vh {height:69vh;}.h70vh {height:70vh;}.h71vh {height:71vh;}.h72vh {height:72vh;}.h73vh {height:73vh;}.h74vh {height:74vh;}.h75vh {height:75vh;}.h76vh {height:76vh;}.h77vh {height:77vh;}.h78vh {height:78vh;}.h79vh {height:79vh;}.h80vh {height:80vh;}.h81vh {height:81vh;}.h82vh {height:82vh;}.h83vh {height:83vh;}.h84vh {height:84vh;}.h85vh {height:85vh;}.h86vh {height:86vh;}.h87vh {height:87vh;}.h88vh {height:88vh;}.h89vh {height:89vh;}.h90vh {height:90vh;}.h91vh {height:91vh;}.h92vh {height:92vh;}.h93vh {height:93vh;}.h94vh {height:94vh;}.h95vh {height:95vh;}.h96vh {height:96vh;}.h97vh {height:97vh;}.h98vh {height:98vh;}.h99vh {height:99vh;}.h100vh {height:100vh;}
+.h150px {height:150px;}
+.h200px {height:200px;}
+.h250px {height:250px;}
+.h300px {height:300px;}
+.h350px {height:350px;}
+.h400px {height:400px;}
+.h450px {height:450px;}
+.h500px {height:500px;}
+.h550px {height:550px;}
+.h600px {height:600px;}
+.h650px {height:650px;}
+.h700px {height:700px;}
+.h750px {height:750px;}
+.h800px {height:800px;}
+.h850px {height:850px;}
+.h900px {height:900px;}
+.h950px {height:950px;}
+.h1000px {height:1000px;}
+/*---------------- Width CSS Selector ----------------*/
+.w0px {width:0px;}.w1px {width:1px;}.w2px {width:2px;}.w3px {width:3px;}.w4px {width:4px;}.w5px {width:5px;}.w6px {width:6px;}.w7px {width:7px;}.w8px {width:8px;}.w9px {width:9px;}.w10px {width:10px;}.w11px {width:11px;}.w12px {width:12px;}.w13px {width:13px;}.w14px {width:14px;}.w15px {width:15px;}.w16px {width:16px;}.w17px {width:17px;}.w18px {width:18px;}.w19px {width:19px;}.w20px {width:20px;}.w21px {width:21px;}.w22px {width:22px;}.w23px {width:23px;}.w24px {width:24px;}.w25px {width:25px;}.w26px {width:26px;}.w27px {width:27px;}.w28px {width:28px;}.w29px {width:29px;}.w30px {width:30px;}.w31px {width:31px;}.w32px {width:32px;}.w33px {width:33px;}.w34px {width:34px;}.w35px {width:35px;}.w36px {width:36px;}.w37px {width:37px;}.w38px {width:38px;}.w39px {width:39px;}.w40px {width:40px;}.w41px {width:41px;}.w42px {width:42px;}.w43px {width:43px;}.w44px {width:44px;}.w45px {width:45px;}.w46px {width:46px;}.w47px {width:47px;}.w48px {width:48px;}.w49px {width:49px;}.w50px {width:50px;}.w51px {width:51px;}.w52px {width:52px;}.w53px {width:53px;}.w54px {width:54px;}.w55px {width:55px;}.w56px {width:56px;}.w57px {width:57px;}.w58px {width:58px;}.w59px {width:59px;}.w60px {width:60px;}.w61px {width:61px;}.w62px {width:62px;}.w63px {width:63px;}.w64px {width:64px;}.w65px {width:65px;}.w66px {width:66px;}.w67px {width:67px;}.w68px {width:68px;}.w69px {width:69px;}.w70px {width:70px;}.w71px {width:71px;}.w72px {width:72px;}.w73px {width:73px;}.w74px {width:74px;}.w75px {width:75px;}.w76px {width:76px;}.w77px {width:77px;}.w78px {width:78px;}.w79px {width:79px;}.w80px {width:80px;}.w81px {width:81px;}.w82px {width:82px;}.w83px {width:83px;}.w84px {width:84px;}.w85px {width:85px;}.w86px {width:86px;}.w87px {width:87px;}.w88px {width:88px;}.w89px {width:89px;}.w90px {width:90px;}.w91px {width:91px;}.w92px {width:92px;}.w93px {width:93px;}.w94px {width:94px;}.w95px {width:95px;}.w96px {width:96px;}.w97px {width:97px;}.w98px {width:98px;}.w99px {width:99px;}.w100px {width:100px;}
+.w150px {width:150px;}
+.w200px {width:200px;}
+.w250px {width:250px;}
+.w300px {width:300px;}
+.w350px {width:350px;}
+.w400px {width:400px;}
+.w450px {width:450px;}
+.w500px {width:500px;}
+.w550px {width:550px;}
+.w600px {width:600px;}
+.w650px {width:650px;}
+.w700px {width:700px;}
+.w750px {width:750px;}
+.w800px {width:800px;}
+.w850px {width:850px;}
+.w900px {width:900px;}
+.w950px {width:950px;}
+.w1000px {width:1000px;}
+/*---------------- Height CSS Selector ----------------*/
+.h0px {height:0px;}.h1px {height:1px;}.h2px {height:2px;}.h3px {height:3px;}.h4px {height:4px;}.h5px {height:5px;}.h6px {height:6px;}.h7px {height:7px;}.h8px {height:8px;}.h9px {height:9px;}.h10px {height:10px;}.h11px {height:11px;}.h12px {height:12px;}.h13px {height:13px;}.h14px {height:14px;}.h15px {height:15px;}.h16px {height:16px;}.h17px {height:17px;}.h18px {height:18px;}.h19px {height:19px;}.h20px {height:20px;}.h21px {height:21px;}.h22px {height:22px;}.h23px {height:23px;}.h24px {height:24px;}.h25px {height:25px;}.h26px {height:26px;}.h27px {height:27px;}.h28px {height:28px;}.h29px {height:29px;}.h30px {height:30px;}.h31px {height:31px;}.h32px {height:32px;}.h33px {height:33px;}.h34px {height:34px;}.h35px {height:35px;}.h36px {height:36px;}.h37px {height:37px;}.h38px {height:38px;}.h39px {height:39px;}.h40px {height:40px;}.h41px {height:41px;}.h42px {height:42px;}.h43px {height:43px;}.h44px {height:44px;}.h45px {height:45px;}.h46px {height:46px;}.h47px {height:47px;}.h48px {height:48px;}.h49px {height:49px;}.h50px {height:50px;}.h51px {height:51px;}.h52px {height:52px;}.h53px {height:53px;}.h54px {height:54px;}.h55px {height:55px;}.h56px {height:56px;}.h57px {height:57px;}.h58px {height:58px;}.h59px {height:59px;}.h60px {height:60px;}.h61px {height:61px;}.h62px {height:62px;}.h63px {height:63px;}.h64px {height:64px;}.h65px {height:65px;}.h66px {height:66px;}.h67px {height:67px;}.h68px {height:68px;}.h69px {height:69px;}.h70px {height:70px;}.h71px {height:71px;}.h72px {height:72px;}.h73px {height:73px;}.h74px {height:74px;}.h75px {height:75px;}.h76px {height:76px;}.h77px {height:77px;}.h78px {height:78px;}.h79px {height:79px;}.h80px {height:80px;}.h81px {height:81px;}.h82px {height:82px;}.h83px {height:83px;}.h84px {height:84px;}.h85px {height:85px;}.h86px {height:86px;}.h87px {height:87px;}.h88px {height:88px;}.h89px {height:89px;}.h90px {height:90px;}.h91px {height:91px;}.h92px {height:92px;}.h93px {height:93px;}.h94px {height:94px;}.h95px {height:95px;}.h96px {height:96px;}.h97px {height:97px;}.h98px {height:98px;}.h99px {height:99px;}.h100px {height:100px;}
+/*---------------- Main Z-index CSS Selector ----------------*/
+.zdx0 {z-index:0;}.zdx1 {z-index:1;}.zdx2 {z-index:2;}.zdx3 {z-index:3;}.zdx4 {z-index:4;}.zdx5 {z-index:5;}.zdx6 {z-index:6;}.zdx7 {z-index:7;}.zdx8 {z-index:8;}.zdx9 {z-index:9;}.zdx10 {z-index:10;}.zdx11 {z-index:11;}.zdx12 {z-index:12;}.zdx13 {z-index:13;}.zdx14 {z-index:14;}.zdx15 {z-index:15;}.zdx16 {z-index:16;}.zdx17 {z-index:17;}.zdx18 {z-index:18;}.zdx19 {z-index:19;}.zdx20 {z-index:20;}.zdx21 {z-index:21;}.zdx22 {z-index:22;}.zdx23 {z-index:23;}.zdx24 {z-index:24;}.zdx25 {z-index:25;}.zdx26 {z-index:26;}.zdx27 {z-index:27;}.zdx28 {z-index:28;}.zdx29 {z-index:29;}.zdx30 {z-index:30;}.zdx31 {z-index:31;}.zdx32 {z-index:32;}.zdx33 {z-index:33;}.zdx34 {z-index:34;}.zdx35 {z-index:35;}.zdx36 {z-index:36;}.zdx37 {z-index:37;}.zdx38 {z-index:38;}.zdx39 {z-index:39;}.zdx40 {z-index:40;}.zdx41 {z-index:41;}.zdx42 {z-index:42;}.zdx43 {z-index:43;}.zdx44 {z-index:44;}.zdx45 {z-index:45;}.zdx46 {z-index:46;}.zdx47 {z-index:47;}.zdx48 {z-index:48;}.zdx49 {z-index:49;}.zdx50 {z-index:50;}.zdx51 {z-index:51;}.zdx52 {z-index:52;}.zdx53 {z-index:53;}.zdx54 {z-index:54;}.zdx55 {z-index:55;}.zdx56 {z-index:56;}.zdx57 {z-index:57;}.zdx58 {z-index:58;}.zdx59 {z-index:59;}.zdx60 {z-index:60;}.zdx61 {z-index:61;}.zdx62 {z-index:62;}.zdx63 {z-index:63;}.zdx64 {z-index:64;}.zdx65 {z-index:65;}.zdx66 {z-index:66;}.zdx67 {z-index:67;}.zdx68 {z-index:68;}.zdx69 {z-index:69;}.zdx70 {z-index:70;}.zdx71 {z-index:71;}.zdx72 {z-index:72;}.zdx73 {z-index:73;}.zdx74 {z-index:74;}.zdx75 {z-index:75;}.zdx76 {z-index:76;}.zdx77 {z-index:77;}.zdx78 {z-index:78;}.zdx79 {z-index:79;}.zdx80 {z-index:80;}.zdx81 {z-index:81;}.zdx82 {z-index:82;}.zdx83 {z-index:83;}.zdx84 {z-index:84;}.zdx85 {z-index:85;}.zdx86 {z-index:86;}.zdx87 {z-index:87;}.zdx88 {z-index:88;}.zdx89 {z-index:89;}.zdx90 {z-index:90;}.zdx91 {z-index:91;}.zdx92 {z-index:92;}.zdx93 {z-index:93;}.zdx94 {z-index:94;}.zdx95 {z-index:95;}.zdx96 {z-index:96;}.zdx97 {z-index:97;}.zdx98 {z-index:98;}.zdx99 {z-index:99;}.zdx100 {z-index:100;}
 /*---------------- BOX Shadow Main Selector Basic ----------------*/
 .bxs-10 {box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 1);}
 .bxs-09 {box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.9);}
@@ -114,6 +207,7 @@ b {font-size: 13px;}
 /*---------------- Text Align Structure CSS  ----------------*/
 .txl {text-align: left;}
 .txr {text-align: right;}
+.txc {text-align: center;}
 .txj {text-align: justify;}
 .txja {text-align: justify-all;}
 /*---------------- Border Radius View CSS ----------------*/
@@ -162,10 +256,58 @@ b {font-size: 13px;}
 .wd8 {width: 12.5%;}
 .wd9 {width: 11.1111111111%;}
 .wd10 {width: 10%;}
+@media screen and (max-width: 1300px) {
+	.wd10 {width: 11.1111111111%;}
+	.wd9 {width: 12.5%;}
+}
+@media screen and (max-width: 1050px) {
+	.wd10 {width: 12.5%;}
+	.wd9 {width: 14.2857142857%;}
+	.wd8 {width: 14.2857142857%;}
+	.wd7 {width: 16.6666666667%;}
+	.wd5 {width: 25%;}
+	.wd4 {width: 33.3333333333%;}
+}
+@media screen and (max-width: 850px) {
+	.wd10 {width: 14.2857142857%;}
+	.wd9 {width: 16.6666666667%;}
+	.wd8 {width: 16.6666666667%;}
+	.wd7 {width: 20%;}
+	.wd6 {width: 20%;}
+	.wd5 {width: 33.3333333333%;}
+	.wd3 {width: 50%;}
+}
+@media screen and (max-width: 650px) {
+	.wd10 {width: 16.6666666667%;}
+	.wd9 {width: 20%;}
+	.wd8 {width: 20%;}
+	.wd7 {width: 25%;}
+	.wd6 {width: 25%;}
+	.wd4 {width: 50%;}
+}
+@media screen and (max-width: 450px) {
+	.wd10 {width: 20%;}
+	.wd9 {width: 25%;}
+	.wd8 {width: 25%;}
+	.wd7 {width: 33.3333333333%;}
+	.wd6 {width: 33.3333333333%;}
+	.wd5 {width: 50%;}
+	.wd3 {width: 100%;}
+	.wd2 {width: 100%;}
+}
+@media screen and (max-width: 350px) {
+	.wd10 {width: 25%;}
+	.wd9 {width: 33.3333333333%;}
+	.wd8 {width: 33.3333333333%;}
+	.wd7 {width: 50%;}
+	.wd6 {width: 50%;}
+	.wd4 {width: 100%;}
+}
 /*---------------- Height Marger Menu Styleing CSS ----------------*/
 .hea {height: auto;}
 .he1 {height: 100%;}
 /*---------------- Aspect Ratio Menu Main CSS ----------------*/
+.1-1 {aspect-ratio: 1 / 1;}
 .5-7 {aspect-ratio: 5 / 7;}
 .7-5 {aspect-ratio: 7 / 5;}
 .16-9 {aspect-ratio: 16 / 9;}
