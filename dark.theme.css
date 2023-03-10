@@ -1,0 +1,67 @@
+/*===============================================
+Type : Dark Theme
+License : Free License for All
+Author : @devan.ys (instagram)
+Using for Begineer Programers
+For Dark Coloring Performance
+Beautiful Source - Simple Use
+===============================================*/
+
+/*---------------- Main Structure CSS ----------------*/
+a, abbr, acronym, address, applet, b, big, blockquote, body, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, kbd, label, legend, li, object, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, var {color:#FFF; font-family:'Arial'sans-serif; text-decoration:none;}
+a:hover, link:hover {color:#003fff;}
+/*---------------- Background Coloring ----------------*/
+.b-black1 {background:#000000;}
+.b-black2 {background:#0d0d0d;}
+.b-black3 {background:#191919;}
+.b-black4 {background:#262626;}
+.b-black5 {background:#333333;}
+.b-black6 {background:#404040;}
+.b-black7 {background:#4d4d4d;}
+.b-black8 {background:#595959;}
+.b-black9 {background:#666666;}
+.c-black1 {color:#000000;}
+.c-black2 {color:#0d0d0d;}
+.c-black3 {color:#191919;}
+.c-black4 {color:#262626;}
+.c-black5 {color:#333333;}
+.c-black6 {color:#404040;}
+.c-black7 {color:#4d4d4d;}
+.c-black8 {color:#595959;}
+.c-black9 {color:#666666;}
+.b-grey1 {background:#121216;}
+.b-grey2 {background:#23242C;}
+.b-grey3 {background:#33363D;}
+.b-grey4 {background:#525052;}
+.b-grey5 {background:#636564;}
+.b-grey6 {background:#94929C;}
+.b-grey7 {background:#787675;}
+.b-grey8 {background:#949C9E;}
+.b-grey9 {background:#404443;}
+.c-grey1 {color:#121216;}
+.c-grey2 {color:#23242C;}
+.c-grey3 {color:#33363D;}
+.c-grey4 {color:#525052;}
+.c-grey5 {color:#636564;}
+.c-grey6 {color:#94929C;}
+.c-grey7 {color:#787675;}
+.c-grey8 {color:#949C9E;}
+.c-grey9 {color:#404443;}
+.b-purple1 {background:#0d0811;}
+.b-purple2 {background:#1b1122;}
+.b-purple3 {background:#281a33;}
+.b-purple4 {background:#362244;}
+.b-purple5 {background:#432b55;}
+.b-purple6 {background:#503365;}
+.b-purple7 {background:#5e3b76;}
+.b-purple8 {background:#6b4487;}
+.b-purple9 {background:#794d98;}
+.c-purple1 {color:#0d0811;}
+.c-purple2 {color:#1b1122;}
+.c-purple3 {color:#281a33;}
+.c-purple4 {color:#362244;}
+.c-purple5 {color:#432b55;}
+.c-purple6 {color:#503365;}
+.c-purple7 {color:#5e3b76;}
+.c-purple8 {color:#6b4487;}
+.c-purple9 {color:#794d98;}
