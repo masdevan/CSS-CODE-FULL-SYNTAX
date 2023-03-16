@@ -52,6 +52,14 @@ b {font-size: 13px;}
 .t-capitalize {text-transform: capitalize;}
 .t-none {text-transform: none;}
 .td-none {text-decoration: none;}
+/*---------------- Overflow  ----------------*/
+.over-h {overflow: hidden;}
+.over-a {overflow: auto;}
+.overx-a {overflow-x:auto;}
+.overx-h {overflow-x:hidden;}
+.overy-a {overflow-y:auto;}
+.overy-h {overflow-y:hidden;}
+.over-s {overflow: scroll;}
 /*---------------- Transition CSS  ----------------*/
 .trs01 {transition: 0.1s;}
 .trs02 {transition: 0.2s;}
